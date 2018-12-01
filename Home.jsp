@@ -4,11 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Demo</title>
 </head>
 <body>
 
-<h1>WELCOME TO GIT</h1>
+<h1 style="background-color:blue">WELCOME TO GIT</h1>
 
 </body>
 </html>
